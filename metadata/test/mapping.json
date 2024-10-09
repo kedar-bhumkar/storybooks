@@ -1,0 +1,30 @@
+{
+  "title": "The cat cafe",
+  "data": [
+    {
+      "thumb_img": "cat1.jpg",
+      "main_img": "cat1.jpg",
+      "info": "This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat .This is a cat. This is a cat"
+    },
+    {
+      "thumb_img": "cat2.jpg",
+      "main_img": "cat2.jpg",
+      "info": "This is another cat. This is another cat. This is another cat. This is another cat. This is another cat. This is another cat. This is another cat. This is another cat. This is another cat. This is another cat"
+    },
+    {
+      "thumb_img": "cat3.jpg",
+      "main_img": "cat3.jpg",
+      "info": "This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat. This is yet another cat"
+    },
+    {
+      "thumb_img": "cat4.jpg",
+      "main_img": "cat4.jpg",
+      "info": "Again another cat. Again another cat. Again another cat. Again another cat. Again another cat. Again another cat. Again another cat. Again another cat. Again another cat. Again another cat"
+    },
+    {
+      "thumb_img": "cat5.jpg",
+      "main_img": "cat5.jpg",
+      "info": "yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat. yet Again another cat"
+    }
+  ]
+}
