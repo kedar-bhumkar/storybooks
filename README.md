@@ -1,4 +1,4 @@
-# Dynamic Image Gallery
+# Picture storybook
 
 This project implements a dynamic image gallery using jQuery and the Slick carousel library. It's designed to display images and associated information based on a specified chapter parameter.
 
